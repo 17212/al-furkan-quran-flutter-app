@@ -2,7 +2,7 @@
 
 # 📖 Al-Furkan — الفُرقان
 
-Al-Furkan is an open-source Quran companion built with Flutter for daily reading, study, remembrance, and personalization.
+Al-Furkan is an open-source Quran "flutter quran app" companion built with Flutter for daily reading, study, remembrance, and personalization.
 
 It currently includes an interactive mushaf, tafsir and translation resources, word-level library tools, prayer times, qibla, azkar, collections, notifications, and a fully customizable "Ayah of the Day" home widget.
 
